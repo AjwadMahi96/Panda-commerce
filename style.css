@@ -24,6 +24,10 @@
 
 }
 
+.cat1, .cat2, .cat3{
+    padding:10px 30px;
+    border-radius:20px;
+}
 .cat1{
     background-color:pink;
 }
@@ -33,4 +37,17 @@
 
 .cat3{
     background-color: rebeccapurple;
+}
+
+.categories h1{
+    color:white;
+}
+
+.categories img{
+    width:100px;
+}
+
+.card{
+    border:none;
+    box-shadow:5px 5px 10px;
 }
