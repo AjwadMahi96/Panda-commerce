@@ -51,3 +51,12 @@
     border:none;
     box-shadow:5px 5px 10px;
 }
+
+#Contact{
+    height:300px;
+}
+
+.foot{
+    text-align:center;
+    color:grey;
+}
